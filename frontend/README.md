@@ -1,7 +1,6 @@
 # React-Movie-Viewer 🎬
-hhhhhhhhhhmm
-b
-Thewwwww **Movie Viewer App** is a dynamic React application designed to help users search for their favorite movies, view detailed information, and create a personalized list of favorite films. Leveraging the power of a movie API, this app provides real-time data, ensuring users always have access to the latest movie information.
+
+ **Movie Viewer App** is a dynamic React application designed to help users search for their favorite movies, view detailed information, and create a personalized list of favorite films. Leveraging the power of a movie API, this app provides real-time data, ensuring users always have access to the latest movie information.
 
 he app is built using modern web technologies, including:
 
